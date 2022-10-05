@@ -23,7 +23,7 @@ Label
 	-fx-effect: dropshadow( three-pass-box , rgba(255,255,255,0.5) , 20,0.5,0,0);
 	-fx-border-width:2px;
     	-fx-border-radius: 4px;
-    	-fx-border-color: #ffffff;
+    	-fx-border-color: #ff369b;
 }
 
 .dashboard_settings_button
